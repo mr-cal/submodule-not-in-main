@@ -1,0 +1,3 @@
+[submodule "craft-parts"]
+	path = craft-parts
+	url = git@github.com:canonical/craft-parts.git
